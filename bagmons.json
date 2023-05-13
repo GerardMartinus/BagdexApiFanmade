@@ -1,0 +1,2860 @@
+[
+    {
+        "id": "1",
+        "name": "VOARA",
+        "rarity": "inicial",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "2",
+        "name": "AZURARA",
+        "rarity": "inicial",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "voador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "3",
+        "name": "ARARAZUL",
+        "rarity": "inicial",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "voador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "4",
+        "name": "PEQUEMICO",
+        "rarity": "inicial",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fogo"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "5",
+        "name": "MICORADO",
+        "rarity": "inicial",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fogo"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "6",
+        "name": "DOURALEÃO",
+        "rarity": "inicial",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fogo"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "aço"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "7",
+        "name": "CAPI",
+        "rarity": "inicial",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "água"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "8",
+        "name": "VARACAPI",
+        "rarity": "inicial",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "água"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "9",
+        "name": "CAPILORDE",
+        "rarity": "inicial",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "água"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "pedra"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "10",
+        "name": "TAMANDUÍ",
+        "rarity": "inicial",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "terra"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "11",
+        "name": "TAMIRIM",
+        "rarity": "inicial",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "terra"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "12",
+        "name": "LUTANDUÁ",
+        "rarity": "inicial",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "terra"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "lutador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "13",
+        "name": "CARALATA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "14",
+        "name": "CARAMELO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "15",
+        "name": "VIRAMELO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "psiquíco"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "16",
+        "name": "IAÇÃ",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "17",
+        "name": "AÇAÍNE",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "lutador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "18",
+        "name": "NANÁ",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "19",
+        "name": "GUARANIN",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "psiquíco"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "20",
+        "name": "BEBOTO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "água"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "21",
+        "name": "BODUTOR",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "água"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "psiquíco"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "22",
+        "name": "LAGUITO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "inseto"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "23",
+        "name": "DURITO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "inseto"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "24",
+        "name": "BANSQUITO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "inseto"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "água"
+                }
+            },
+            {
+                "slot": 3,
+                "type": {
+                    "name": "voador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "25",
+        "name": "CHANIN",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "26",
+        "name": "FOFILHO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "27",
+        "name": "SLICURAU",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "28",
+        "name": "PAMONHANA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fada"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "29",
+        "name": "JONDI",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "terra"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "voador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "30",
+        "name": "BOJARRO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "terra"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "voador"
+                }
+            },
+            {
+                "slot": 3,
+                "type": {
+                    "name": "água"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "31",
+        "name": "BENJA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "sintético"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "elétrico"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "32",
+        "name": "BENJAMAIS",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "sintético"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "elétrico"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "33",
+        "name": "BENJAMUITOS",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "sintético"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "elétrico"
+                }
+            },
+            {
+                "slot": 3,
+                "type": {
+                    "name": "fogo"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "34",
+        "name": "PONDI",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fada"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "35",
+        "name": "DIQUEIJOS",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fada"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "36",
+        "name": "BESARELA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "inseto"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "voador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "37",
+        "name": "BESERCULES",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "inseto"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "aço"
+                }
+            },
+            {
+                "slot": 3,
+                "type": {
+                    "name": "voador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "38",
+        "name": "JULICAC",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "terra"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "39",
+        "name": "CAQUILETE",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "terra"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "40",
+        "name": "GRAFÉ",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "41",
+        "name": "TORRAFÉ",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fogo"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "42",
+        "name": "CAFASMA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fogo"
+                }
+            },
+            {
+                "slot": 3,
+                "type": {
+                    "name": "fantasma"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "43",
+        "name": "DURATISTA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "pedra"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "44",
+        "name": "DUTRINO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "pedra"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "45",
+        "name": "DURAÍBA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "pedra"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "psíquico"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "46",
+        "name": "ZÉGOTI",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fada"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "47",
+        "name": "PFIZEGATOR",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "água"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "48",
+        "name": "JACAREVAC",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "água"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "49",
+        "name": "ASTRACARÉ",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "água"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "50",
+        "name": "COLOTE",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "sintético"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fada"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "51",
+        "name": "CAJAÇA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "sintético"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fada"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "52",
+        "name": "VÉIGUERRERO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "sintético"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fada"
+                }
+            },
+            {
+                "slot": 3,
+                "type": {
+                    "name": "lutador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "53",
+        "name": "BISCOLACHA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "lutador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "54",
+        "name": "BOLACHOITO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "lutador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "55",
+        "name": "RATINRRATO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "elétrico"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "água"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "56",
+        "name": "RATOBUM",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "elétrico"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "água"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "57",
+        "name": "CUSCUTE",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "58",
+        "name": "MONSTRUZ",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "59",
+        "name": "QUEROKERO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "voador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "60",
+        "name": "QUEROCAOS",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "voador"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "sombrio"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "61",
+        "name": "BEMTEVI",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "voador"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "som"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "62",
+        "name": "BEMTEVEREI",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "voador"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "som"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "63",
+        "name": "BEMTEVEJO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "voador"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "som"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "64",
+        "name": "PREGAINA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fantasma"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "voador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "65",
+        "name": "LARGATA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "inseto"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "66",
+        "name": "CASULETA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "inseto"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "67",
+        "name": "BORBOLETO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "inseto"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "voador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "68",
+        "name": "BRABULETA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "inseto"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "voador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "69",
+        "name": "UVISIER",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "elétrico"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "70",
+        "name": "SANSOELHO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fada"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "voador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "71",
+        "name": "COXITA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fada"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "lutador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "72",
+        "name": "PASFEIRA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fada"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fogo"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "73",
+        "name": "CALDICANA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fantasma"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "planta"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "74",
+        "name": "PEQUITIXA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dragão"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "planta"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "75",
+        "name": "CALANGUI",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dragão"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "planta"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "76",
+        "name": "PETEIÚ",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dragão"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "planta"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "77",
+        "name": "BEZETA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "78",
+        "name": "CARAPRETA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "79",
+        "name": "BEZELA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "80",
+        "name": "VACARELA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "81",
+        "name": "CAPRITIDOS",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fada"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "82",
+        "name": "SAPOEIRA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "lutador"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "venenoso"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "83",
+        "name": "JIUSAPO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "lutador"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "venenoso"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "84",
+        "name": "CAPAGAZ",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fantasma"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "venenoso"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "85",
+        "name": "CARCEGO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "voador"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "sombrio"
+                }
+            },
+            {
+                "slot": 3,
+                "type": {
+                    "name": "som"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "86",
+        "name": "MORGANÇA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "voador"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "sombrio"
+                }
+            },
+            {
+                "slot": 3,
+                "type": {
+                    "name": "som"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "87",
+        "name": "BEBOLVO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "água"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "pedra"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "88",
+        "name": "OCTEDDY",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "água"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "som"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "89",
+        "name": "TAZUM",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "sintético"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "voador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "90",
+        "name": "ZUMTAZO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "sintético"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "voador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "91",
+        "name": "FANTAZO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "sintético"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "voador"
+                }
+            },
+            {
+                "slot": 3,
+                "type": {
+                    "name": "fantasma"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "92",
+        "name": "FEIJOTE",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fantasma"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "gelo"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "93",
+        "name": "BANLOIRA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fantasma"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "água"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "94",
+        "name": "MAMUNA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "venenoso"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "95",
+        "name": "MANTRIO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "venenoso"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "96",
+        "name": "MASSINAS",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "venenoso"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "som"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "97",
+        "name": "JUBARÁ",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "voador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "98",
+        "name": "JOSORÉ",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "voador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "99",
+        "name": "FIXUXO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "100",
+        "name": "TXUCÃO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "101",
+        "name": "CHIFÍBIO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "venenoso"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "102",
+        "name": "SAPERÊ",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "venenoso"
+                }
+            },
+            {
+                "slot": 3,
+                "type": {
+                    "name": "gelo"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "103",
+        "name": "CHIMARRÃ",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "venenoso"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "104",
+        "name": "TERERECA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "venenoso"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "gelo"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "105",
+        "name": "SIN",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "psíquico"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "106",
+        "name": "SALABIN",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "psíquico"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "107",
+        "name": "ZIRIGUIDUM",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "psíquico"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "som"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "108",
+        "name": "ELECBOL",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "sintético"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "elétrico"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "109",
+        "name": "BRAZORB",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "sintético"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "elétrico"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "110",
+        "name": "DONCORVO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "água"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "voador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "111",
+        "name": "CANARIN",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "voador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "112",
+        "name": "PISTOLIN",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "lutador"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "voador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "113",
+        "name": "TATULECO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "terra"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "pedra"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "114",
+        "name": "TATUNASTRA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "terra"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "pedra"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "115",
+        "name": "TUPIN",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "voador"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "normal"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "116",
+        "name": "VOLPINIQUIN",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "voador"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "elétrico"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "117",
+        "name": "FLORINIQUIN",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "voador"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "planta"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "118",
+        "name": "HIDRONIQUIN",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "voador"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "água"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "119",
+        "name": "BRASANIQUIN",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "voador"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fogo"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "120",
+        "name": "TITANIQUIN",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "voador"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "aço"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "121",
+        "name": "URUMENGO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "voador"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "sombrio"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "122",
+        "name": "CEBRUTIUS",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "sintético"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "aço"
+                }
+            },
+            {
+                "slot": 3,
+                "type": {
+                    "name": "som"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "123",
+        "name": "DIGUIDIM",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "sintético"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "aço"
+                }
+            },
+            {
+                "slot": 3,
+                "type": {
+                    "name": "som"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "124",
+        "name": "ORCANTOS",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "água"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "gelo"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "125",
+        "name": "PORMEIRAS",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "terra"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "126",
+        "name": "SANTAULO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "psíquico"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fada"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "127",
+        "name": "MOSQUIÃO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "voador"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "aço"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "128",
+        "name": "PEIXUMÃ",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "água"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "129",
+        "name": "PIRARUPEIXE",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "água"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "sombrio"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "130",
+        "name": "IMPERÁTILUS",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "dragão"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "elétrico"
+                }
+            },
+            {
+                "slot": 3,
+                "type": {
+                    "name": "som"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "131",
+        "name": "IRRITATOR",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "pedra"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "água"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "132",
+        "name": "CELECONDA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "133",
+        "name": "SUCULESTE",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "psíquico"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "134",
+        "name": "URSOCOTOM",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "normal"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "135",
+        "name": "ARAUPINHA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "136",
+        "name": "ARAUBROTO",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "137",
+        "name": "ARAUFORTE",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "lutador"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "138",
+        "name": "XUNAVE",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "cósmico"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "aço"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "139",
+        "name": "CRISTALUNA",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "cósmico"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fada"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "140",
+        "name": "SEREIARA",
+        "rarity": "mítico",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "água"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "psiquíco"
+                }
+            },
+            {
+                "slot": 3,
+                "type": {
+                    "name": "som"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "141",
+        "name": "PIROPIRA",
+        "rarity": "mítico",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "planta"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fogo"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "142",
+        "name": "SACERÊ",
+        "rarity": "mítico",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "voador"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "psiquíco"
+                }
+            },
+            {
+                "slot": 3,
+                "type": {
+                    "name": "sombrio"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "143",
+        "name": "COBRATÁ",
+        "rarity": "mítico",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fogo"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "sombrio"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "144",
+        "name": "MULANTÂ",
+        "rarity": "mítico",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "fogo"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "fantasma"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "145",
+        "name": "MAPINGUÁ",
+        "rarity": "normal",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "lutador"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "terra"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "146",
+        "name": "LOGUARÁ",
+        "rarity": "lendário",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "terra"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "sombrio"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "147",
+        "name": "IAGUARÁ",
+        "rarity": "lendário",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "aço"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "sombrio"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "148",
+        "name": "VELOPYA",
+        "rarity": "lendário",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "voador"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "sombrio"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "149",
+        "name": "GAMBIARROS",
+        "rarity": "lendário",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "sintético"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "indefinido"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "150",
+        "name": "BILU",
+        "rarity": "mítico",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "cósmico"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "psiquíco"
+                }
+            }
+        ],
+        "img": ""
+    },
+    {
+        "id": "151",
+        "name": "BIVALDO",
+        "rarity": "mítico",
+        "types": [
+            {
+                "slot": 1,
+                "type": {
+                    "name": "cósmico"
+                }
+            },
+            {
+                "slot": 2,
+                "type": {
+                    "name": "psiquíco"
+                }
+            }
+        ],
+        "img": ""
+    }
+]
